@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-//静态函数的方式调用矩阵
+//以对象的方式调用函数
 namespace Matrix
 {
     public class Matrix
